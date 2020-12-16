@@ -1,0 +1,6 @@
+.square{
+border: 1px solid red;
+}   
+.circle{
+    border-radius: 50%;
+}
